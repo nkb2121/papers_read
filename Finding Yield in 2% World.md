@@ -3,6 +3,7 @@
 ###[Link to Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2724737)
 ###Introduction
 Now a days, foreign debt consists of more than 30% of the global asset classes, but most investors doesn't have 30% of their portfolio in foreign government bonds. With the US yields at record lows, this paper explores other investment schools of thought. Some interesting points:
+
 *Most bond indexes are market capitalization weighted, which means we invest more in countries that have more debt outstanding. Does this make sense? 
 *Global bond indexes are dominated by 5 biggest issuers: US, JP, Germany, France and UK. These 5 countries account for 70% of total debt outstanding, but less than half of global GDP and about 10% global population.
 
